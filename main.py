@@ -14,7 +14,7 @@ def getGradePoint(L):
   elif(L == "B-"):
     return 2.67
   elif(L == "C+"):
-    return 2,33
+    return 2.33
   elif(L == "C"):
     return 2.0
   elif(L == "D"):

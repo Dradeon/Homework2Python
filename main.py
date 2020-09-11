@@ -20,7 +20,7 @@ def getGradePoint(L):
   elif(L == "D"):
     return 1.0
   else:
-    return 0
+    return 0.0
 
 if __name__ == "__main__":
   course1letter = input("Enter your course 1 letter grade: ")
